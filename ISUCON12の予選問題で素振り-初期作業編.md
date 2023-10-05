@@ -68,7 +68,7 @@ set expandtab tabstop=4 shiftwidth=4 softtabstop=4
 nginxのLogFormatを設定
 
 https://github.com/tkancf-sandbox/isucon12q/commit/dde7a77886cd3320d0e9c56d11f901c57ad82175
-![image](kataribeのREADME https://github.com/matsuu/kataribe) 参照した
+[kataribeのREADME](https://github.com/matsuu/kataribe) を参照した
 
 # MySQLの設定
 
